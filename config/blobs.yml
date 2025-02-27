@@ -1,0 +1,8 @@
+java/OpenJDK21U-jdk_x64_linux_hotspot_21.0.6_7.tar.gz:
+  size: 206861665
+  sha: sha256:a2650fba422283fbed20d936ce5d2a52906a5414ec17b2f7676dddb87201dbae
+  href: https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.6%2B7/OpenJDK21U-jdk_x64_linux_hotspot_21.0.6_7.tar.gz
+node/node-v20.18.3-linux-x64.tar.xz:
+  size: 25810368
+  sha: sha256:595bcc9a28e6d1ee5fc7277b5c3cb029275b98ec0524e162a0c566c992a7ee5c
+  href: https://nodejs.org/dist/v20.18.3/node-v20.18.3-linux-x64.tar.xz
