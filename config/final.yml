@@ -1,1 +1,6 @@
+---
 name: test
+blobstore:
+  provider: local
+  options:
+    blobstore_path: blobs
