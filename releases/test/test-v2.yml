@@ -1,0 +1,23 @@
+name: test
+version: v2
+commit_hash: 1e72fbb
+uncommitted_changes: false
+jobs:
+- name: does-nothing
+  version: 1ca7516f74d7a497f78785b924bc3691c14a9e63a5905134ffb6d0b6158f4687
+  fingerprint: 1ca7516f74d7a497f78785b924bc3691c14a9e63a5905134ffb6d0b6158f4687
+  sha1: sha256:c1019226ae0a52a442c05eed96d3f90b8b2942d20e67eacb031d892c136c360a
+  packages:
+  - java
+  - node
+packages:
+- name: java
+  version: 889c392818ee6efc9e38f3db86b55d757d068d70a9087f95ee628eefc3751fec
+  fingerprint: 889c392818ee6efc9e38f3db86b55d757d068d70a9087f95ee628eefc3751fec
+  sha1: sha256:6b0c68cb8ea090112af7b2948ef9843cd23a9c85c98710758ecd1e4595e04d35
+  dependencies: []
+- name: node
+  version: 1dc0f3b044375b6865258b9207d6a12695baac376834090e60d86e1f3a5ee231
+  fingerprint: 1dc0f3b044375b6865258b9207d6a12695baac376834090e60d86e1f3a5ee231
+  sha1: sha256:7e66dc70d7c9001346bc7375273c586455301c4f40407c79d315e04dddd994d1
+  dependencies: []
