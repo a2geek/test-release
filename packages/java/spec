@@ -1,0 +1,7 @@
+---
+name: java
+
+dependencies: []
+
+files:
+- java/OpenJDK21*.tar.gz

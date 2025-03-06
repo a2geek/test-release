@@ -1,0 +1,10 @@
+---
+name: does-nothing
+
+templates: {}
+
+packages:
+- java
+- node
+
+properties: {}

@@ -1,0 +1,7 @@
+---
+name: node
+
+dependencies: []
+
+files:
+- node/node-v20*.tar.xz
